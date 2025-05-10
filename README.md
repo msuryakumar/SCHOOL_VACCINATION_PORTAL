@@ -168,8 +168,8 @@ The backend exposes the following API endpoints for CRUD operations:
     - Frontend: `npm start` (in the `frontend` directory)
 
 5. Access the application at:
-    - Frontend: [http://localhost:3000](http://localhost:3000)
-    - Backend: [http://localhost:5000](http://localhost:5000)
+    - Frontend: (http://localhost:3000)
+    - Backend: (http://localhost:5000)
 
 ## Database Queries
 
@@ -198,26 +198,9 @@ Here are some sample MongoDB queries that are used in this system:
       date: { $gte: new Date(), $lt: new Date(new Date().setDate(new Date().getDate() + 30)) }
     })
     ```
-
-## Contributions
-
-Feel free to fork the project and submit pull requests if you'd like to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Demo Video
-
-To view a demonstration of the working prototype, please visit the link below:
-
-[Demo Video Link](https://drive.google.com/your-demo-video-link)
-
 ---
 
 ## Contact
 
 For any queries or issues, feel free to contact the project maintainer at:  
-**Email**: your-email@example.com
+**Email**: surya.muthukkumar05@gmail.com
